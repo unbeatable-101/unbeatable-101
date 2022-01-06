@@ -340,7 +340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lanrat/dns2mdns</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a DNS to mDNS bridge service</div>
@@ -1257,7 +1257,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 5 Jan 2022, 19:34:58 (timezone America/Toronto) with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 5 Jan 2022, 21:06:45 (timezone America/Toronto) with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>

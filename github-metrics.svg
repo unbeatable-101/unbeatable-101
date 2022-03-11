@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>quenhus/uBlock-Origin-dev-filter</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.</div>
@@ -1255,7 +1255,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Mar 2022, 17:10:18 (timezone America/Toronto) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 11 Mar 2022, 18:09:34 (timezone America/Toronto) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>go-gitea/gitea</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Git with a cup of tea, painless self-hosted git service</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Swordfish90/cool-retro-term</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A good looking terminal emulator which mimics the old cathode display...</div>
@@ -1229,7 +1229,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2022, 11:11:54 (timezone America/Toronto) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 25 Sept 2022, 12:14:47 (timezone America/Toronto) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

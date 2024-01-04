@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>orhun/gpg-tui</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Manage your GnuPG keys with ease! 🔐</div>
@@ -694,7 +694,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.60m out of 127m users</span>
+                                    <span class="gh">ranked 4.61m out of 127m users</span>
                                 </div>
                                 <div class="text">Published 13 public repositories</div>
                             </div>
@@ -1106,7 +1106,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jan 2024, 03:11:47 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2024, 04:09:23 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

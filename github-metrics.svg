@@ -293,7 +293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unknownskl/greenlight</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Greenlight is an open-source client for xCloud and Xbox home streaming made in Typescript.</div>
@@ -689,7 +689,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.15m out of 137m users</span>
+                                    <span class="gh">ranked 5.15m out of 142m users</span>
                                 </div>
                                 <div class="text">Published 13 public repositories</div>
                             </div>
@@ -913,7 +913,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.37m out of 137m users</span>
+                                    <span class="gh">ranked 2.37m out of 142m users</span>
                                 </div>
                                 <div class="text">Followed by 6 users</div>
                             </div>
@@ -1138,7 +1138,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2024, 14:13:08 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Aug 2024, 15:09:09 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -297,7 +297,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ngosang/trackerslist</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Updated list of public BitTorrent trackers</div>
@@ -1136,7 +1136,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2025, 19:11:55 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Mar 2025, 21:05:37 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

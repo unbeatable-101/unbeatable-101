@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gomuks/gomuks</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Matrix client written in Go.</div>
@@ -600,7 +600,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Dec 2025, 20:10:40 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Dec 2025, 22:23:40 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

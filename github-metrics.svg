@@ -293,7 +293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sniklaus/youtube-watchmarker</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a browser extension that keeps track of your YouTube watch history and marks videos that you have already watched</div>
@@ -584,7 +584,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Apr 2026, 19:14:18 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Apr 2026, 20:18:29 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
